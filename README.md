@@ -67,6 +67,8 @@ Several promising efforts exist, but none offer **all of the following** in one 
 - Receiving **public broadcasts and emergency messages** accessibly
 - Supporting **Deaf/hearing hybrid households** with synchronized audio + sign
 
+See [SYSTEM_SKETCH.md](./SYSTEM_SKETCH.md) for a full technical and strategic breakdown.
+
 ---
 
 ## 🤝 Call for Collaboration
