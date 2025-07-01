@@ -125,7 +125,7 @@ Offer an open badge or digital "compliance token" for orgs that follow DeafVisio
 - No use for surveillance, behavioral tracking, or exploitative automation
 - AI-generated signing should **complement**, not replace, human interpreters where nuance is critical
 
-For full details, see the [Ethical Use Statement](../ETHICAL_USE.md).
+For full details, see the [Ethical Use Statement](./ETHICAL_USE.md).
 
 ---
 
